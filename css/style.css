@@ -157,7 +157,7 @@ body {
 .heading{
   text-align: center;
 }
-.img1 {
+.img10 {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -260,4 +260,58 @@ h2 .fa-instagram {
   background: #CC3366;
   color: white;
   width: auto;
+}
+.masterchef h1{
+  text-align: center;
+}
+.img9{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.masterchef p {
+  margin-left: 150px;
+  margin-right: 150px;
+}
+.masterchef h2{
+  margin: 50px 0 0 90px;
+}
+.recipe h1{
+  margin: 50px 0 20px 580px;
+}
+.recipe img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+}
+.recipe p{
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.resume h2{
+  text-align: center;
+}
+.resume h3{
+  background-color: #b79571;
+  margin-top: 80px;
+  margin-bottom: 40px;
+  text-align: center;
+  border: collapse;
+  border: solid 1px black;
+  margin-right: 350px;
+  margin-left: 350px;
+}
+.resume p, ul{
+  margin-left: 350px;
+  margin-right: 350px;
+  margin-bottom: 50px;
+}
+.exp{
+  margin-left: 10px;
+}
+.exp h1{
+  margin-left: 490px;
 }
